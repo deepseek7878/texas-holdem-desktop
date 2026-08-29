@@ -1,4 +1,4 @@
-# Texas Hold'em Desktop — 德州扑克桌面游戏源码|德州扑克游戏源码|德州俱乐部源码|德州源码
+# Texas Hold'em Desktop — 德州扑克游戏源码|德州扑克游戏源码|德州俱乐部源码|德州源码
 
 
 [English](README.en.md) | [繁體中文](README.zh-TW.md) | [GitHub Pages](https://deepseek7878.github.io/texas-holdem-desktop/)
