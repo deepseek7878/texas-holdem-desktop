@@ -1,8 +1,8 @@
-A desktop poker game featuring offline gameplay and AI opponents.
+# Texas Hold'em Desktop — 德州扑克桌面游戏源码|德州扑克游戏源码|德州俱乐部源码|德州源码
 
-**专业德州扑游戏| Professional Texas Hold'em desktop game |德州扑克游戏源码|德州俱乐部源码|德州源码|德州二开|hhpoker|wpk源码| 專業德州撲克桌面遊戲|德州私人局源码
 
-**真实运营数年 · 支持线下验证 ·ALLIN德州扑克源码 ·八个德州玩法，远超市场主流德州玩法**
+[English](README.en.md) | [繁體中文](README.zh-TW.md) | [GitHub Pages](https://deepseek7878.github.io/texas-holdem-desktop/)
+**·ALLIN德州扑克源码 ·八个德州玩法，远超市场主流德州玩法**
 
 
 **简体中文 · 繁體中文 · English· 韩文· 马来文· 日文· 泰文· 印尼语·越南文**
@@ -15,9 +15,37 @@ A desktop poker game featuring offline gameplay and AI opponents.
 [![GitHub issues](https://img.shields.io/github/issues/deepseek7878/texas-holdem-desktop?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-desktop/issues)
 [![License](https://img.shields.io/github/license/deepseek7878/texas-holdem-desktop?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-desktop/blob/main/LICENSE)
 
-**俱乐部+联盟+私人局 | 10+种玩法 | 刚停服，全套源码可售 **  
+**俱乐部+联盟+私人局 | 10+种玩法 | **  
 单人练习、锦标赛、手牌历史、数据分析、主题自定义、离线娱乐 / 單人練習、錦標賽、手牌歷史、數據分析、主題自訂、離線娛樂.
+## 核心关键词
 
+- 德州扑克桌面游戏源码
+- 德州扑克源码
+- 德州源码
+- 德扑源码
+- Texas Hold'em Desktop Game
+- Texas Hold'em Poker Source Code
+- Poker Desktop Game Source Code
+- Offline Poker Game
+- AI Poker Opponents
+- Poker Tournament System
+- 德州俱乐部源码
+- 德州扑克多语言版本
+
+## 核心功能
+
+| 模块 | 功能 |
+|---|---|
+| 桌面客户端 | Windows、macOS、Linux 跨平台运行 |
+| 游戏模式 | 单人练习、快速对战、挑战赛、锦标赛、朋友局 |
+| AI 对手 | 离线 AI 玩家、难度等级、策略模拟 |
+| 牌局流程 | Pre-flop、Flop、Turn、River、Showdown |
+| 数据统计 | VPIP、PFR、3-bet、胜率、位置胜率、下注热图 |
+| 手牌历史 | 牌局记录、回放、导出 CSV/JSON |
+| 赛事系统 | 盲注升级、报名、淘汰、排名、积分榜 |
+| 主题系统 | 夜间模式、经典模式、赌场风格、自定义配色 |
+| 多语言 | 简体中文、繁体中文、英文、韩文、马来文等可扩展 |
+| 打包发布 | Electron Builder、PyInstaller、Unity/C++ 客户端可扩展 |
 ## 🎮 一键下载运行 / Download & Play / 一鍵下載運行
 
 [![Windows](https://img.shields.io/badge/Windows-Setup.exe-blue?style=for-the-badge&logo=windows)](https://github.com/deepseek7878/texas-holdem-desktop/releases/latest/download/TexasHoldem-Windows.exe)
@@ -180,24 +208,16 @@ text
 ✅ 6套主题皮肤  
 ✅ 全平台原生支持  
 
-## 📦 Download
 
-Download the latest version:
 
-👉 📱 Telegram：@fox_lovemyself
-
-## 📱 💰 获取源码 | Contact
+## 📱 💰 联系 | Contact
 
 
 📱 Telegram：@fox_lovemyself
 
 
 📧 Email：lihongbo9414@gmail.com
-## 🎮 Game Preview
 
-- Desktop UI screenshot  
-- Poker table interface  
-- Gameplay example  
 ## 产品截图
 ![13](https://github.com/user-attachments/assets/bc00bf28-558f-4742-8426-3e22fa25efeb)
 ![12](https://github.com/user-attachments/assets/1cc31f9c-705d-465d-888b-ce0f2c2f13d4)
