@@ -67,7 +67,7 @@ tests/                  # 自动化测试
 - 德州撲克完整解决方案的一部分
 
 
-```
+
 ## 📱 💰 联系 | Contact
 
 
@@ -84,6 +84,8 @@ tests/                  # 自动化测试
 ![08](https://github.com/user-attachments/assets/2e007e26-cd87-4f57-bcd4-3becc9cd7ee2)
 ![04](https://github.com/user-attachments/assets/0b0cebc6-4920-4263-9384-36db22c00dc3)
 ![01](https://github.com/user-attachments/assets/8235a957-7408-4b5f-a5dc-6c7cdb6c9380)
+
+
 **[立即下载体验](https://github.com/deepseek7878/texas-holdem-desktop/releases/latest)**
 ## Responsible Use
 
