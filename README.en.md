@@ -39,7 +39,6 @@ The project covers a complete desktop Texas Hold'em experience, including offlin
 
 ## Suggested Repository Structure
 
-```text
 client/                 # Desktop client source code
 engine/                 # Texas Hold'em rules and game engine
 ai/                     # AI opponents and strategy modules
@@ -52,7 +51,7 @@ scripts/                # Build, package and deployment helpers
 docs/                   # GitHub Pages product and technical documentation
 tests/                  # Automated tests
 .github/workflows/      # CI and GitHub Pages workflows
-```
+
 
 ## Use Cases
 
@@ -66,7 +65,7 @@ tests/                  # Automated tests
 - Part of a complete Texas Hold'em poker solution
 
 
-```
+
 ## 📱 💰 联系 | Contact
 
 
