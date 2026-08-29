@@ -66,27 +66,7 @@ tests/                  # 自动化测试
 - Windows/macOS/Linux 跨平台棋牌游戏
 - 德州撲克完整解决方案的一部分
 
-## GitHub Pages 發布
 
-上傳 `docs/` 后，推荐设置：
-
-```text
-Settings → Pages → Deploy from a branch
-Branch: main
-Folder: /docs
-Save
-```
-
-發布后访问：
-
-```text
-https://deepseek7878.github.io/texas-holdem-desktop/
-```
-
-Sitemap：
-
-```text
-https://deepseek7878.github.io/texas-holdem-desktop/sitemap.xml
 ```
 ## 📱 💰 联系 | Contact
 
