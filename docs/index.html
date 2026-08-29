@@ -5,26 +5,47 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Texas Hold'em Desktop Game Source Code</title>
   <meta name="description" content="Cross-platform Texas Hold'em desktop game source code for Windows, macOS and Linux with offline practice, AI opponents, tournaments, club rooms, hand history, stats and themes.">
-  <meta name="keywords" content="Texas Hold'em desktop game, poker source code, offline poker, AI opponents, poker tournament, poker club, Electron poker, Unity poker">
+  <meta name="keywords" content="Texas Hold'em desktop game source code, 德州扑克桌面游戏源码, 德州扑克源码, poker desktop game, offline poker game, AI poker opponents, poker tournament, poker club, Windows poker game, macOS poker game, Linux poker game">
   <link rel="canonical" href="https://deepseek7878.github.io/texas-holdem-desktop/">
+  <meta property="og:title" content="Texas Hold'em Desktop Game Source Code">
+  <meta property="og:description" content="跨平台德州扑克桌面游戏源码，支持 Windows、macOS、Linux、离线练习、AI 对手、锦标赛、俱乐部房间、手牌历史和数据统计。">
+  <meta property="og:image" content="https://deepseek7878.github.io/texas-holdem-desktop/Assets/screenshots/01.jpg">
   <style>
-    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f8fafc;color:#162033}
-    header{padding:66px 24px;background:linear-gradient(135deg,#020617,#7f1d1d);color:#fff}
-    nav a{color:#fecaca;margin-right:18px;text-decoration:none}
-    main{max-width:1120px;margin:0 auto;padding:38px 22px 72px}
-    h1{font-size:44px;margin:18px 0 12px} h2{color:#991b1b}
-    .card{background:#fff;border:1px solid #e5e7eb;border-radius:18px;padding:26px;margin:20px 0;box-shadow:0 14px 34px rgba(15,23,42,.08)}
-    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
-    li{margin:8px 0;line-height:1.65} footer{padding:30px;text-align:center;color:#64748b}
+    :root { --bg:#f8fafc; --card:#fff; --text:#162033; --muted:#64748b; --red:#991b1b; --line:#e5e7eb; }
+    *{box-sizing:border-box} body{margin:0;font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text)}
+    header{padding:66px 24px;background:linear-gradient(135deg,#020617,#7f1d1d);color:#fff} .wrap{max-width:1120px;margin:0 auto}
+    nav{margin-bottom:30px} nav a{color:#fecaca;margin-right:18px;text-decoration:none;font-weight:700}
+    h1{font-size:44px;line-height:1.12;margin:18px 0 14px} header p{max-width:900px;color:#fee2e2;font-size:18px;line-height:1.75}
+    main{max-width:1120px;margin:0 auto;padding:38px 22px 72px} h2{color:var(--red);font-size:30px;margin:0 0 14px} h3{margin:0 0 10px;color:#0f172a}
+    p,li{color:var(--muted);line-height:1.75} .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px;margin:20px 0;box-shadow:0 14px 34px rgba(15,23,42,.08)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px} .badges{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+    .badge{display:inline-block;padding:8px 12px;border-radius:999px;background:rgba(239,68,68,.20);color:#fee2e2;font-size:14px;font-weight:700}
+    .cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:22px} .btn{display:inline-block;padding:12px 18px;border-radius:12px;text-decoration:none;font-weight:700;background:#dc2626;color:#fff} .btn.secondary{background:#0f172a}
+    .screenshot-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:22px;margin-top:22px} .screenshot-grid figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:0 16px 40px rgba(15,23,42,.10)}
+    .screenshot-grid img{width:100%;height:auto;display:block;background:#eef2f7} .screenshot-grid figcaption{padding:13px 15px;color:#475569;font-size:14px;border-top:1px solid #eef2f7}
+    code{background:#f1f5f9;padding:2px 6px;border-radius:6px;color:#0f172a} footer{padding:30px;text-align:center;color:var(--muted)}
   </style>
 </head>
 <body>
-<header>
-  <nav><a href="./">Home</a><a href="features.html">Features</a><a href="architecture.html">Architecture</a><a href="deployment.html">Deployment</a><a href="https://github.com/deepseek7878/texas-holdem-desktop">GitHub</a></nav>
-  <h1>Texas Hold'em Desktop Game Source Code</h1>
-  <p>Cross-platform Texas Hold'em desktop game source code for Windows, macOS and Linux with offline practice, AI opponents, tournaments, club rooms, hand history, stats and themes.</p>
-</header>
-<main><section class="card"><h2>Texas Hold'em Desktop Game / 德州扑克桌面游戏</h2><p>A cross-platform poker desktop game source-code foundation for offline practice, AI opponents, tournaments, hand history, statistics, themes and club/private-room extensions.</p></section><section class="grid"><div class="card"><h2>Offline Practice</h2><p>Single-player training tables, AI opponents, hand replay and statistics tracking.</p></div><div class="card"><h2>Tournaments & Clubs</h2><p>Expandable architecture for tournament mode, private rooms, clubs and friend tables.</p></div><div class="card"><h2>Cross-platform</h2><p>Suitable for Windows, macOS and Linux desktop clients with Electron, Python, Unity or C++ extensions.</p></div></section></main>
-<footer>© 2026 deepseek7878/texas-holdem-desktop. Cross-platform poker desktop game source code.</footer>
-</body>
-</html>
+  <header><div class="wrap"><nav><a href="./">Home</a><a href="features.html">Features</a><a href="architecture.html">Architecture</a><a href="deployment.html">Deployment</a><a href="https://github.com/deepseek7878/texas-holdem-desktop">GitHub</a></nav><h1>Texas Hold'em Desktop Game Source Code</h1><p>Cross-platform Texas Hold'em desktop game source code for Windows, macOS and Linux with offline practice, AI opponents, tournaments, club rooms, hand history, statistics and themes.</p><div class="badges"><span class="badge">德州扑克源码</span><span class="badge">Desktop Poker</span><span class="badge">Offline Practice</span><span class="badge">AI Opponents</span><span class="badge">Tournament</span><span class="badge">Windows macOS Linux</span></div></div></header>
+  <main>
+    <section class="card"><h2>Texas Hold'em Desktop / 德州扑克桌面游戏</h2><p>Texas Hold'em Desktop provides a cross-platform desktop poker client foundation with offline practice, AI opponents, tournaments, club rooms, hand history, statistics, themes and multilingual extensions.</p><p>本项目适合德州扑克桌面游戏源码、离线德州扑克练习软件、德州 AI 对手训练、德州扑克赛事客户端、德州俱乐部客户端和海外 Poker Desktop Game 项目。</p><div class="cta"><a class="btn" href="https://github.com/deepseek7878/texas-holdem-desktop">View Source on GitHub</a><a class="btn secondary" href="features.html">View Features</a></div></section>
+    <section class="grid"><div class="card"><h3>Offline Practice</h3><p>Single-player training tables, AI opponents, hand replay and statistics tracking.</p></div><div class="card"><h3>Tournaments & Clubs</h3><p>Expandable architecture for tournament mode, private rooms, clubs and friend tables.</p></div><div class="card"><h3>Cross-platform</h3><p>Suitable for Windows, macOS and Linux desktop clients with Electron, Python, Unity or C++ extensions.</p></div></section>
+    <section class="card" id="screenshots"><h2>Product Screenshots / 产品截图</h2><p>Images are loaded from <code>docs/Assets/screenshots/</code>. Because GitHub Pages publishes from <code>/docs</code>, the correct path in this file is <code>Assets/screenshots/文件名</code>. 注意：<code>Assets</code> 是大写 A，<code>screenshots</code> 是小写 s。</p><div class="screenshot-grid">
+        <figure><img src="Assets/screenshots/01.jpg" alt="Texas Holdem desktop game screenshot 01.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 01</figcaption></figure>
+        <figure><img src="Assets/screenshots/02.jpg" alt="Texas Holdem desktop game screenshot 02.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 02</figcaption></figure>
+        <figure><img src="Assets/screenshots/03.jpg" alt="Texas Holdem desktop game screenshot 03.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 03</figcaption></figure>
+        <figure><img src="Assets/screenshots/04.jpg" alt="Texas Holdem desktop game screenshot 04.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 04</figcaption></figure>
+        <figure><img src="Assets/screenshots/05.jpg" alt="Texas Holdem desktop game screenshot 05.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 05</figcaption></figure>
+        <figure><img src="Assets/screenshots/06.jpg" alt="Texas Holdem desktop game screenshot 06.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 06</figcaption></figure>
+        <figure><img src="Assets/screenshots/07.jpg" alt="Texas Holdem desktop game screenshot 07.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 07</figcaption></figure>
+        <figure><img src="Assets/screenshots/08.jpg" alt="Texas Holdem desktop game screenshot 08.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 08</figcaption></figure>
+        <figure><img src="Assets/screenshots/09.jpg" alt="Texas Holdem desktop game screenshot 09.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 09</figcaption></figure>
+        <figure><img src="Assets/screenshots/10.jpg" alt="Texas Holdem desktop game screenshot 10.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 10</figcaption></figure>
+        <figure><img src="Assets/screenshots/11.jpg" alt="Texas Holdem desktop game screenshot 11.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 11</figcaption></figure>
+        <figure><img src="Assets/screenshots/12.jpg" alt="Texas Holdem desktop game screenshot 12.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 12</figcaption></figure>
+        <figure><img src="Assets/screenshots/13.jpg" alt="Texas Holdem desktop game screenshot 13.jpg" loading="lazy"><figcaption>Texas Holdem Desktop Screenshot 13</figcaption></figure>
+      </div></section>
+    <section class="card"><h2>SEO Keywords / 搜索关键词</h2><p>Texas Hold'em desktop game source code, Texas Hold'em poker source code, poker desktop game source code, offline poker game, AI poker opponents, poker tournament system, cross-platform poker game, 德州扑克桌面游戏源码、德州扑克源码、德州源码、德扑源码、德州俱乐部源码。</p></section>
+  </main><footer>© 2026 deepseek7878/texas-holdem-desktop. Use only within lawful regions and lawful business scopes.</footer>
+</body></html>
