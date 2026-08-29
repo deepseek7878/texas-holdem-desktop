@@ -1,4 +1,4 @@
-# Texas Hold'em Desktop — 德州撲克桌面遊戲原始碼
+# Texas Hold'em Desktop — 德州撲克遊戲原始碼
 
 [English](README.en.md) | [繁體中文](README.zh-TW.md) | [GitHub Pages](https://deepseek7878.github.io/texas-holdem-desktop/)
 
