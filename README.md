@@ -63,11 +63,6 @@ pip install -r requirements.txt && python main.py  # Python版
 ✅ 可视化图表
 
 
-![主菜单](https://via.placeholder.com/900x500/4A90E2/FFFFFF?text=%E4%B8%BB%E8%8F%9C%E5%8D%95+%E9%80%89%E6%8B%A9%E6%A8%A1%E5%BC%8F)
-![游戏画面](https://via.placeholder.com/900x600/E94B3C/FFFFFF?text=%E6%B8%B8%E6%88%8F%E7%9A%84%E9%9D%A2+%E5%AE%9E%E6%97%B6%E6%8E%92%E5%9C%8D)
-![数据面板](https://via.placeholder.com/900x400/F5A623/FFFFFF?text=%E6%88%98%E7%BB%A9%E7%BB%9F%E8%AE%A1+%E5%8B%B5%E7%8E%87%E5%88%86%E6%9E%90)
-![手牌历史](https://via.placeholder.com/900x500/7ED321/FFFFFF?text=%E6%89%8B%E7%89%8C%E5%8E%86%E5%8F%B2+%E5%9B%9E%E6%94%BE)
-
 ---
 
 ## 🏆 锦标赛系统 / Tournament System / 錦標賽系統
