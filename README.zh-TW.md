@@ -88,7 +88,23 @@ Sitemap：
 ```text
 https://deepseek7878.github.io/texas-holdem-desktop/sitemap.xml
 ```
+## 📱 💰 联系 | Contact
 
+
+📱 Telegram：@fox_lovemyself
+
+
+📧 Email：lihongbo9414@gmail.com
+
+## 产品截图
+![13](https://github.com/user-attachments/assets/bc00bf28-558f-4742-8426-3e22fa25efeb)
+![12](https://github.com/user-attachments/assets/1cc31f9c-705d-465d-888b-ce0f2c2f13d4)
+![11](https://github.com/user-attachments/assets/76194b4d-51fa-433a-b290-52e3ec878da3)
+![10](https://github.com/user-attachments/assets/6544287f-3bb0-4416-b821-0e34a6515120)
+![08](https://github.com/user-attachments/assets/2e007e26-cd87-4f57-bcd4-3becc9cd7ee2)
+![04](https://github.com/user-attachments/assets/0b0cebc6-4920-4263-9384-36db22c00dc3)
+![01](https://github.com/user-attachments/assets/8235a957-7408-4b5f-a5dc-6c7cdb6c9380)
+**[立即下载体验](https://github.com/deepseek7878/texas-holdem-desktop/releases/latest)**
 ## Responsible Use
 
 本專案適合桌面遊戲开发、離線练习、AI 對手研究、教学演示和合规业务参考。公开營運时请遵守当地法律法规、年龄限制、支付合规和用户隐私要求。
